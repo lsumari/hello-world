@@ -4,4 +4,4 @@ Decided it's finally time to get comfortable with a version control system again
 
 Testing GitHub.
 
-Let's edit something more here. We're learning branches now.
+Let us edit something more here. We are learning branches now.
